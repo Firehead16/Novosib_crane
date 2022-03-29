@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b668023f506d474ead87a36d28e95ed, type: 3}
+  m_Name: TestControlsSettings
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Time: 15
+  NeedShuffle: 0
+  ImageQuestionForm: {fileID: 1044406565533638, guid: 8095f57f395eb5849a4b6c276e5f0d1f,
+    type: 3}
+  ToggleQuestionForm: {fileID: 1179749034958480, guid: db0fa0a8b29aff044800fcc4ea65432f,
+    type: 3}
+  RadioBoxQuestionForm: {fileID: 1012350766574208, guid: 089b8e2d06b2f5c4a8d260a13347e9cd,
+    type: 3}
+  EnterAnswerQuestionForm: {fileID: 1565783871126734, guid: 5597cb2b848900b4db7318775300f218,
+    type: 3}
+  SpaceFillQuestionForm: {fileID: 1997827805385506, guid: 63e0e12a2e91b8b44b7228b391db2255,
+    type: 3}
+  OrderListQuestionForm: {fileID: 1710516095668948, guid: 8e7b5f1be4c506f468d3649fda8ca7b4,
+    type: 3}
+  OrderPrefab: {fileID: 3389849926336787803, guid: 175d7127d1aa96b458e67f4b52d5c268,
+    type: 3}
+  DragLineHandeler: {fileID: 1585574716296176, guid: 2438051e534326b4c9a630abf09b63d8,
+    type: 3}
+  DropLineHandeler: {fileID: 1585574716296176, guid: d4e1ad8d7ffa4924d8c5942e8fa33c6b,
+    type: 3}
+  RadioBoxPrefab: {fileID: 240590518684744327, guid: a381213fc1033b446a022bfdddb58b7e,
+    type: 3}
+  RadioBoxObject: {fileID: 1973191397015884, guid: add557e0265675542a2a2d573d5515eb,
+    type: 3}
+  DrugAndDropPrefab: {fileID: 1655983504909761950, guid: be98f3b4a2fe2cb47a9c5d9b3d592ff4,
+    type: 3}
+  LineContainer: {fileID: 1961894184277694, guid: 668b8e135e3c01242843c2773fb1cc46,
+    type: 3}
+  TextObject: {fileID: 1066983352644326, guid: 7ee73e2c9b4eb9344ad514087f52fedb, type: 3}
+  DragTextHandeler: {fileID: 5718175821064336837, guid: 8dde81ac0e313ad448ab5fc335d67254,
+    type: 3}
+  PlaceholderText: {fileID: 1333807777412711117, guid: f4c2fd1965cfdcf4ea20aca7b0544e1c,
+    type: 3}
+  ToggleObject: {fileID: 1620967190315942, guid: defde9fe678059342853fe958cf819f1,
+    type: 3}
+  TextLinePrefab: {fileID: 240590518684744327, guid: 75dbe2c6854579d4cba5fa8276458bab,
+    type: 3}
+  InputFieldObject: {fileID: 1555622220728422, guid: 5ef74e079fcfa5a418372af5123d49b2,
+    type: 3}
+  ImagePrefab: {fileID: 1655983504909761950, guid: 2373a989f9ef3ff4c87590dbb4a73e5d,
+    type: 3}

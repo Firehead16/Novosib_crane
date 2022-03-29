@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51db57d76d0a10a49b2000a0c3b73c8c, type: 3}
+  m_Name: UchtechTheme
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  enableDynamicUpdate: 1
+  enableExtendedColorPicker: 1
+  editorHints: 0
+  PanelColor: {r: 0.101960786, g: 0.12156863, b: 0.12941177, a: 1}
+  AnimatedIconColor: {r: 255, g: 255, b: 255, a: 1}
+  ButtonType: 0
+  ButtonFont: {fileID: 11400000, guid: 84dd14695854bbc43a5faa24fcf93d0d, type: 2}
+  ButtonFontSize: 22.5
+  ButtonBorderColor: {r: 255, g: 255, b: 255, a: 1}
+  ButtonFilledColor: {r: 0.3254902, g: 0.3529412, b: 0.38431373, a: 1}
+  ButtonTextBasicColor: {r: 255, g: 255, b: 255, a: 1}
+  ButtonTextColor: {r: 255, g: 255, b: 255, a: 1}
+  ButtonTextHighlightedColor: {r: 255, g: 255, b: 255, a: 1}
+  ButtonIconBasicColor: {r: 255, g: 255, b: 255, a: 1}
+  ButtonIconColor: {r: 255, g: 255, b: 255, a: 1}
+  ButtonIconHighlightedColor: {r: 255, g: 255, b: 255, a: 1}
+  DropdownItemFont: {fileID: 0}
+  DropdownItemFontSize: 22.5
+  DropdownTheme: 0
+  DropdownAnimation: 1
+  DropdownFont: {fileID: 11400000, guid: 4bd810f1cbcb0f446a8f5a31453e243f, type: 2}
+  DropdownFontSize: 22.5
+  DropdownColor: {r: 0.3254902, g: 0.3529412, b: 0.38431373, a: 1}
+  DropdownTextColor: {r: 255, g: 255, b: 255, a: 1}
+  DropdownIconColor: {r: 255, g: 255, b: 255, a: 255}
+  DropdownItemColor: {r: 0.3019608, g: 0.3254902, b: 0.35686275, a: 1}
+  DropdownItemTextColor: {r: 255, g: 255, b: 255, a: 255}
+  DropdownItemIconColor: {r: 255, g: 255, b: 255, a: 255}
+  SelectorFont: {fileID: 11400000, guid: 4bd810f1cbcb0f446a8f5a31453e243f, type: 2}
+  HSelectorFontSize: 28
+  SelectorColor: {r: 255, g: 255, b: 255, a: 1}
+  SelectorHighlightedColor: {r: 0.3254902, g: 0.3529412, b: 0.38431373, a: 1}
+  HSelectorInvertAnimation: 0
+  HSelectorLoopSelection: 1
+  InputFieldFont: {fileID: 11400000, guid: 4bd810f1cbcb0f446a8f5a31453e243f, type: 2}
+  InputFieldFontSize: 20
+  InputFieldColor: {r: 1, g: 1, b: 1, a: 1}
+  ModalWindowTitleFont: {fileID: 11400000, guid: fa328c1ae3ffb6b4583cf371153b0be6,
+    type: 2}
+  ModalWindowContentFont: {fileID: 11400000, guid: 4bd810f1cbcb0f446a8f5a31453e243f,
+    type: 2}
+  ModalTheme: 0
+  ModalWindowTitleColor: {r: 255, g: 255, b: 255, a: 1}
+  ModalWindowDescriptionColor: {r: 255, g: 255, b: 255, a: 1}
+  ModalWindowIconColor: {r: 255, g: 255, b: 255, a: 1}
+  ModalWindowBackgroundColor: {r: 0.3137255, g: 0.34509805, b: 0.38431373, a: 1}
+  ModalWindowContentPanelColor: {r: 0.23529412, g: 0.25490198, b: 0.2901961, a: 1}
+  NotificationTitleFont: {fileID: 11400000, guid: 4bd810f1cbcb0f446a8f5a31453e243f,
+    type: 2}
+  NotificationTitleFontSize: 22.5
+  NotificationDescriptionFont: {fileID: 11400000, guid: 4bd810f1cbcb0f446a8f5a31453e243f,
+    type: 2}
+  NotificationDescriptionFontSize: 18
+  NotificationTheme: 0
+  NotificationBackgroundColor: {r: 0.3254902, g: 0.3529412, b: 0.38431373, a: 1}
+  NotificationTitleColor: {r: 255, g: 255, b: 255, a: 1}
+  NotificationDescriptionColor: {r: 255, g: 255, b: 255, a: 1}
+  NotificationIconColor: {r: 255, g: 255, b: 255, a: 1}
+  ProgressBarLabelFont: {fileID: 11400000, guid: 84dd14695854bbc43a5faa24fcf93d0d,
+    type: 2}
+  ProgressBarLabelFontSize: 25
+  ProgressBarColor: {r: 255, g: 255, b: 255, a: 1}
+  ProgressBarBackgroundColor: {r: 1, g: 1, b: 1, a: 0.05882353}
+  ProgressBarLoopBackgroundColor: {r: 255, g: 255, b: 255, a: 1}
+  ProgressBarLabelColor: {r: 255, g: 255, b: 255, a: 1}
+  ScrollbarColor: {r: 255, g: 255, b: 255, a: 1}
+  ScrollbarBackgroundColor: {r: 1, g: 1, b: 1, a: 0.09803922}
+  SliderLabelFont: {fileID: 11400000, guid: 84dd14695854bbc43a5faa24fcf93d0d, type: 2}
+  SliderLabelFontSize: 24
+  SliderTheme: 0
+  SliderColor: {r: 255, g: 255, b: 255, a: 1}
+  SliderBackgroundColor: {r: 1, g: 1, b: 1, a: 0.09803922}
+  SliderLabelColor: {r: 255, g: 255, b: 255, a: 1}
+  SliderPopupLabelColor: {r: 255, g: 255, b: 255, a: 255}
+  SliderHandleColor: {r: 255, g: 255, b: 255, a: 255}
+  SwitchBorderColor: {r: 255, g: 255, b: 255, a: 1}
+  SwitchBackgroundColor: {r: 255, g: 255, b: 255, a: 1}
+  SwitchHandleOnColor: {r: 0.3254902, g: 0.3529412, b: 0.38431373, a: 1}
+  SwitchHandleOffColor: {r: 255, g: 255, b: 255, a: 1}
+  ToggleFont: {fileID: 11400000, guid: 4bd810f1cbcb0f446a8f5a31453e243f, type: 2}
+  ToggleFontSize: 35
+  ToggleTheme: 0
+  ToggleTextColor: {r: 255, g: 255, b: 255, a: 1}
+  ToggleBorderColor: {r: 255, g: 255, b: 255, a: 1}
+  ToggleBackgroundColor: {r: 1, g: 1, b: 1, a: 0.29411766}
+  ToggleCheckColor: {r: 255, g: 255, b: 255, a: 1}
+  TooltipFont: {fileID: 11400000, guid: 84dd14695854bbc43a5faa24fcf93d0d, type: 2}
+  TooltipFontSize: 22
+  TooltipTextColor: {r: 255, g: 255, b: 255, a: 1}
+  TooltipBackgroundColor: {r: 0.3254902, g: 0.3529412, b: 0.38431373, a: 1}
+  dropMenuPrefab: {fileID: 114862494995395252, guid: 6950491c54655984f8757b07edf73f82,
+    type: 3}
+  toolTipPrefab: {fileID: 4767345968953618981, guid: e35a5af95e1e4144e9efb93891e7384a,
+    type: 3}
+  textPrefab: {fileID: 8526575764708551663, guid: 0e476a2054c0c3149a1aafb4ab1566c5,
+    type: 3}
+  imagePrefab: {fileID: 232169614528539112, guid: 0bbcbe4f778692c4da622dba60d6838b,
+    type: 3}
+  buttonPrefab: {fileID: 114585723600414088, guid: 00fb93f398d6ab646b81586940087692,
+    type: 3}
+  togglePrefab: {fileID: 114991546523654008, guid: 71766f1bef30953409612c3803df740a,
+    type: 3}
+  sliderPrefab: {fileID: 114326730114993132, guid: 532be6a4fe92da84781b0746078bbd33,
+    type: 3}
+  scrollbarPrefab: {fileID: 114909476919733686, guid: 046e1ceafe93c134f844e1be0cd81dc6,
+    type: 3}
+  dropdownPrefab: {fileID: 2433234088095135957, guid: 91a60fc8f4ad3134ab92aefa86434cec,
+    type: 3}
+  inputFieldPrefab: {fileID: 7874924957424207866, guid: 5dc9e808676a2d1489a70e93979454ce,
+    type: 3}
+  scrollViewPrefab: {fileID: 2593522331812171445, guid: 0922b4421af710e439f14be232943cdb,
+    type: 3}
+  panelShowAndHideDuration: 0.5
+  fadeDuration: 0.1
+  tableLineColor: {r: 0.8392157, g: 0.7254902, b: 0.30588236, a: 1}

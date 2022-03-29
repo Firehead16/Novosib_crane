@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98812488-9627-46af-b555-17e2c4951033" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PortalSGUVT/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PortalSGUVT/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PortalSGUVT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PortalSGUVT/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cargo/Containers/QContainer20.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cargo/Containers/QContainer20.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cargo/Containers/QContainer40.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cargo/Containers/QContainer40.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/ArrowEnabled.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/ArrowEnabled.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/ControlEnabled.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/ControlEnabled.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/RailEnabled.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/RailEnabled.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/ReadyEnabled.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/ReadyEnabled.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/RopeEnabled.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/RopeEnabled.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/Slab1Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/Slab1Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/Slab2Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/Slab2Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/TowerEnabled.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Crane/Cabin/CabinMaterials/lamps/TowerEnabled.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SlingerPath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SlingerPath.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/speed.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/speed.ini" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/Panels/MainPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/Recorder/RecordTextFile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QuestControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/MainMenuCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/HideCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ResultPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/Recorder/RecordFile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CraneControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@10.5.1/Runtime/Debugging/DebugManager.Actions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/UI/Logs/QuestLog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/UI/Logs/QuestLogPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CabinElements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SlingerPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QuestStepSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CargoItself.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FluidCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/LoginPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/Recorder/RecordPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/DropdownGrabChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/OGP/OGP.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/Panels/SettingsPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovablePart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.1.0-pre.5/InputSystem/Utilities/ReadOnlyArray.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KeepAnglePosition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/Panels/ToggleDescriptionPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cameras/CameraControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cameras/F3CameraMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/OnGroundCamera/OnGroundCameraMovemvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cameras/FreeMouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/ToggleScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlaceToAttach.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QuestChooseParameters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/DynamicBackground.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpreaderParameters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlaceTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/Panels/DocumentaryPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cameras/F3CameraItself.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/PausePanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/UI/QuestDescriptions/QuestDescription.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/DropdownPlaceListChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Optional/SmallPortalRand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaterMistake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RailStop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Obi/Scripts/Common/Collisions/ObiRigidbody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Recorder/RecorderMmpeg.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/CanvasControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SoundControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hardware/iniparser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@10.5.1/Runtime/Debugging/DebugUpdater.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cameras/F2CameraZoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/QuestPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/SimpleFileBrowser/Scripts/DemoCaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/UI/QuestStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Waves.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hardware/Hardware.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Optional/RansContainersStacks.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GrabControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cargo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TorusCloneMovement.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuestChooseParameters.cs" />
+        <option value="$PROJECT_DIR$/Assets/1/why.cs" />
+        <option value="$PROJECT_DIR$/Assets/Materials/Textures/SeaOffset.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Cargo/Containers/armlocker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Input/InputControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Optional/RansContainersStacks.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cameras/F3CameraItself.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cameras/F3CameraMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlaceTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/newPortal.txt" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PausePanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Obi/Scripts/Common/Collisions/ObiRigidbody.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RailStop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SoundControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WaterMistake.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cameras/CameraControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/OnGroundCamera/OnGroundCameraMovemvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/CanvasControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Optional/SmallPortalRand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/UI/QuestDescription.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/UI/QuestDescriptions/QuestDescription.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/DropdownPlaceListChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/QuestPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/Panels/ToggleDescriptionPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/HideCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/DynamicBackground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/Panels/SettingsPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cameras/FreeMouseLook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CabinElements.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/OGP/OGP.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Waves.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Hardware/Hardware.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CraneControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlaceToAttach.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cargo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CargoItself.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/UI/QuestStorage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/LoginPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/MainMenuCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Recorder/RecordPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Recorder/Recorder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/UI/MainMenu/Panels/MainPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Recorder/RecorderMmpeg.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Recorder/RecorderMmpeg.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuestControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Recorder/RecordFile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Recorder/RecordTextFile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GrabControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ResultPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovablePart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SlingerPath.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sQMWssj0vCJv8lklnl2mAzqH7d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.026002167" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98812488-9627-46af-b555-17e2c4951033" name="Default Changelist" comment="" />
+      <created>1620800404350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620800404350</updated>
+      <workItem from="1620800414082" duration="1288000" />
+      <workItem from="1621246965025" duration="7269000" />
+      <workItem from="1621319358739" duration="5446000" />
+      <workItem from="1621338558604" duration="571000" />
+      <workItem from="1621340611367" duration="1406000" />
+      <workItem from="1621400344295" duration="21335000" />
+      <workItem from="1621484005434" duration="6594000" />
+      <workItem from="1621499299909" duration="3414000" />
+      <workItem from="1621857794411" duration="1733000" />
+      <workItem from="1621915855979" duration="23664000" />
+      <workItem from="1622002098967" duration="5026000" />
+      <workItem from="1622092022531" duration="18326000" />
+      <workItem from="1622174908699" duration="13485000" />
+      <workItem from="1622196154675" duration="7979000" />
+      <workItem from="1622435733880" duration="2452000" />
+      <workItem from="1622779960107" duration="8782000" />
+      <workItem from="1623038855441" duration="658000" />
+      <workItem from="1623131825803" duration="15116000" />
+      <workItem from="1623211169796" duration="14725000" />
+      <workItem from="1623299203492" duration="18973000" />
+      <workItem from="1623384487466" duration="9150000" />
+      <workItem from="1623729938248" duration="7515000" />
+      <workItem from="1623831318259" duration="10391000" />
+      <workItem from="1623912496407" duration="16275000" />
+      <workItem from="1624003519899" duration="12052000" />
+      <workItem from="1624267507088" duration="6194000" />
+      <workItem from="1624346715964" duration="8825000" />
+      <workItem from="1624421778582" duration="12132000" />
+      <workItem from="1624510237221" duration="13330000" />
+      <workItem from="1624593531852" duration="18385000" />
+      <workItem from="1624854776111" duration="15604000" />
+      <workItem from="1624939236512" duration="12076000" />
+      <workItem from="1624956732101" duration="10583000" />
+      <workItem from="1625025995922" duration="16143000" />
+      <workItem from="1625112804063" duration="1538000" />
+      <workItem from="1625116619995" duration="2080000" />
+      <workItem from="1625124969508" duration="10679000" />
+      <workItem from="1625199562130" duration="9596000" />
+      <workItem from="1625227322214" duration="1266000" />
+      <workItem from="1625467184089" duration="14288000" />
+      <workItem from="1625545110104" duration="5078000" />
+      <workItem from="1625553131770" duration="1309000" />
+      <workItem from="1625556170204" duration="11396000" />
+      <workItem from="1625632784855" duration="21164000" />
+      <workItem from="1625718314861" duration="17100000" />
+      <workItem from="1625803973501" duration="19699000" />
+      <workItem from="1626065250641" duration="15315000" />
+      <workItem from="1626150387928" duration="17003000" />
+      <workItem from="1626240156806" duration="7664000" />
+      <workItem from="1626251764870" duration="11841000" />
+      <workItem from="1626323340875" duration="14322000" />
+      <workItem from="1626352170352" duration="425000" />
+      <workItem from="1626410900672" duration="13878000" />
+      <workItem from="1626676730655" duration="9792000" />
+      <workItem from="1626754489099" duration="4736000" />
+      <workItem from="1626762790846" duration="12046000" />
+      <workItem from="1626841923999" duration="10109000" />
+      <workItem from="1626932253597" duration="4782000" />
+      <workItem from="1626948111437" duration="2070000" />
+      <workItem from="1626952789399" duration="800000" />
+      <workItem from="1626955777092" duration="1512000" />
+      <workItem from="1627966027998" duration="20923000" />
+      <workItem from="1628054527404" duration="18501000" />
+      <workItem from="1628732373453" duration="1932000" />
+      <workItem from="1628741373103" duration="2616000" />
+      <workItem from="1628747573264" duration="1614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="383" width="639" height="274" key="#Notifications" timestamp="1625470025053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="457" y="383" width="639" height="274" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1625470025053" />
+    <state width="491" height="464" key="DebuggerActiveHint" timestamp="1625731771795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="491" height="464" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1625731771795" />
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1626759302529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302529" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1626759302529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302529" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1626759302529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302529" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1626759302529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302529" />
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1626759302530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1626759302530" />
+    <state x="764" y="194" key="RiderGenerateDialog" timestamp="1626772206760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="194" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626772206760" />
+    <state x="187" y="197" width="1291" height="708" key="SettingsEditor" timestamp="1625804022480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="187" y="197" width="1291" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625804022480" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1625825059429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1625825059429" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Cameras/CameraControl.cs</url>
+          <line>80</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Cameras/CameraControl.cs" initialLine="80">
+            <startOffsets>
+              <option value="2998" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3041" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

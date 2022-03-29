@@ -1,0 +1,5 @@
+Latin+Cyrillic+Underline+Strikeout:
+Unicode Range (HEX)
+0030-007F,0400-04FF
+
+1024x1024 Atlas

@@ -1,0 +1,498 @@
+{
+    "name": "CraneControls",
+    "maps": [
+        {
+            "name": "Action map",
+            "id": "9928ce7e-7bc5-48c3-9bc3-df9a0523d81a",
+            "actions": [
+                {
+                    "name": "RailsMovement",
+                    "type": "Value",
+                    "id": "e1b6b8f8-84a3-43e0-89c7-c489325c4293",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "ArrowMovement",
+                    "type": "Value",
+                    "id": "cd96bbda-d0db-4df8-990c-baaf03d83b43",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "RotationMovement",
+                    "type": "Value",
+                    "id": "5e4b491a-2137-4e91-b990-3dcdcf872ef8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "RopeLengthChanging",
+                    "type": "Button",
+                    "id": "e0c27a4e-23ef-48ad-a8ce-d57a25dd7158",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "KeyOn",
+                    "type": "Button",
+                    "id": "af0dd81d-3153-4440-82cf-a482f9cb24f7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "KeyOff",
+                    "type": "Button",
+                    "id": "f002fcf0-491b-4331-aa88-532f85d955ca",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "RotateCargo",
+                    "type": "Value",
+                    "id": "778be1e7-2ca5-4f5c-bdac-6749b24c731f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "SpreaderMovement",
+                    "type": "Value",
+                    "id": "d57cd606-0616-4226-9365-9b314fb99700",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "SpreaderGrab",
+                    "type": "Button",
+                    "id": "854dfcd5-15a0-44c9-980a-cc1bc2d06516",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "ShowOGP",
+                    "type": "Button",
+                    "id": "b20da640-055e-4b89-bb41-7afb028e5f21",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "SpreaderRelease",
+                    "type": "Button",
+                    "id": "02ae9f0e-cb76-4978-91c3-db8736f2eafb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "F1Camera",
+                    "type": "Button",
+                    "id": "78c05b1d-65e6-4c57-a04d-190fa39233ef",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "F2Camera",
+                    "type": "Button",
+                    "id": "c5986096-7b12-4dfe-bc59-3d20901eb284",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "F3Camera",
+                    "type": "Button",
+                    "id": "c91aeb9d-4021-4fa8-a7e7-376bca067d4b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "F4Camera",
+                    "type": "Button",
+                    "id": "7dc59fee-4092-462f-8541-ba71679e7170",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "F5Camera",
+                    "type": "Button",
+                    "id": "961f84b2-299b-40ca-aade-a32fdbb28a4c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Pause",
+                    "type": "Button",
+                    "id": "e8b71bcd-6f76-40bc-b606-ca0c8ff81feb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "WorkOn",
+                    "type": "Button",
+                    "id": "18edd36e-554c-4e79-929b-199605ae14ef",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "WorkOff",
+                    "type": "Button",
+                    "id": "0dada3ff-059f-4a1d-8a4d-e171a7d0e586",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "FirstSpeed",
+                    "type": "Button",
+                    "id": "6bb30599-9396-49d3-bbf1-6b5dccd59842",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "SecondSpeed",
+                    "type": "Button",
+                    "id": "b4fcb5cf-9336-432b-af5d-5985613070c0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "ThirdSpeed",
+                    "type": "Button",
+                    "id": "2e552b8f-6296-4889-82a9-c6196f53a52f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "EmergencyStop",
+                    "type": "Button",
+                    "id": "318d5283-8286-41ec-b065-2d4d640c32a6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "TestLEDs",
+                    "type": "Button",
+                    "id": "ff9c103a-adbe-4c45-8355-052875f5ec07",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "A/D",
+                    "id": "51b08963-dfae-4db5-8066-37a35595a03f",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RailsMovement",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "W/S",
+                    "id": "0cf8d6a3-ee1d-430e-a749-ad5423ca1787",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ArrowMovement",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "Num46",
+                    "id": "5fc4de4d-b3b5-44af-8441-5e0b4444ce16",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RotationMovement",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "7a6c6db1-58ed-41b2-9ad1-a2dd633b5754",
+                    "path": "<HID::Shaul Eizikovich vJoy - Virtual Joystick>/button64",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RotationMovement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "147f73ad-f652-424f-ba91-c1803e1624ad",
+                    "path": "<HID::Shaul Eizikovich vJoy - Virtual Joystick>/button63",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RotationMovement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "Num82",
+                    "id": "6a652540-9bf3-457e-8175-050546517c52",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RopeLengthChanging",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5790dfde-e6b1-48e6-ab47-e4957de8bd14",
+                    "path": "<HID::Shaul Eizikovich vJoy - Virtual Joystick>/button14",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyOn",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bcc5f49c-b69a-4244-b8d5-34c47afa56fd",
+                    "path": "<Keyboard>/l",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyOff",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "Num7/9",
+                    "id": "fcb40d97-5800-42ff-88ce-201ebbe37a88",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RotateCargo",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "Num1/3",
+                    "id": "1a8cb2b8-32df-4a34-afb9-65eca36b8024",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpreaderMovement",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "adcbfd82-584e-49ac-974e-789e01e1d315",
+                    "path": "<Keyboard>/numpad5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpreaderGrab",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b1c46fe0-2e5f-4535-98b1-ade8a5d4abcb",
+                    "path": "<Keyboard>/p",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ShowOGP",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c399d9df-31d7-4bc3-aace-689c6cc87139",
+                    "path": "<Keyboard>/numpad0",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpreaderRelease",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b488883c-3369-41e0-a666-fac86bed2065",
+                    "path": "<Keyboard>/f1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "F1Camera",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8ba4239e-6a29-44a9-9a77-d1558d05591d",
+                    "path": "<Keyboard>/f2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "F2Camera",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "53929e6c-60c8-41ca-b039-43022f0f15a4",
+                    "path": "<Keyboard>/f3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "F3Camera",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c496d0d4-78f8-4919-8c4e-591637142f04",
+                    "path": "<Keyboard>/f4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "F4Camera",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "90f3cedd-e0ce-4562-9f11-db52217e0a5f",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dfb17537-4e8f-4f2c-af55-ca1ed833b28d",
+                    "path": "<Keyboard>/i",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "WorkOn",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8ef5cb81-c4d2-426b-8dd0-b0e236200241",
+                    "path": "<Keyboard>/o",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "WorkOff",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6180c124-7506-4853-8821-c263f5915017",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FirstSpeed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bc7c8a7a-2fc5-4400-8734-dec1691e1495",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SecondSpeed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0bfbd46a-2539-4a5c-b94b-4c6ddce2de69",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ThirdSpeed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3767ac02-269c-452f-8922-a8e9d8a9c477",
+                    "path": "<Keyboard>/h",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "EmergencyStop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8a9bc62b-ed17-4c4e-83ba-0207c41a711c",
+                    "path": "<Keyboard>/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TestLEDs",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cd7d03c6-170a-4df3-b6a7-5e7707afb52d",
+                    "path": "<Keyboard>/f5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "F5Camera",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "New control scheme",
+            "bindingGroup": "New control scheme",
+            "devices": []
+        }
+    ]
+}

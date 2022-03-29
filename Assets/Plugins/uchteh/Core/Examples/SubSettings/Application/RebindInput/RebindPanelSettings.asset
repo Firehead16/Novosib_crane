@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5095103ca97130e4dab3cd31ad8ff1fa, type: 3}
+  m_Name: RebindPanelSettings
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  inputActionAssetPreview: {fileID: 9036281340931771599, guid: 4f29b895b2b76b74787bc70afc85c2a3,
+    type: 3}
+  inputActionMapPreview: {fileID: 2342354519808600510, guid: 9fa4e6011045cdb4c905aeb6405357f2,
+    type: 3}
+  inputActionPreview: {fileID: 9044031943109823336, guid: 66dd6dd852c906a48ae01dec8cc1d224,
+    type: 3}
+  bindingSetButton: {fileID: 5257390932982040437, guid: dddeb6c134ce0ab4b8675b0d1f6c3abd,
+    type: 3}
+  compositBindingPreview: {fileID: 1341200020003034632, guid: c0c7e73a65508374d9080c3d540b52b7,
+    type: 3}
+  customInputAssetFolder: /CustomInputData/
+  assets:
+  - {fileID: -944628639613478452, guid: dc6b41648ada39b48906c6771b4c0815, type: 3}

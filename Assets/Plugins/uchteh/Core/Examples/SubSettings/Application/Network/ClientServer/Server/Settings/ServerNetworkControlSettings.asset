@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b91a39eded06ccf43b7fc159787ca703, type: 3}
+  m_Name: ServerNetworkControlSettings
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: -3289860050239025837, guid: 10910668da4a4494685768d576ee4501, type: 3}
+    - {fileID: 918109322482120796, guid: 99271d1f9af324440b2a253b2fb7e2bc, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: connectionPrefabs
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[Core.Global.Network.IServerNetworkConnection,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  databaseConfig:
+  - Database: {fileID: -4135014410829322795, guid: a40d54f866fb7bb45a00700d62b86be5,
+      type: 3}
+    IsNeedLoad: 1
+  - Database: {fileID: -4712080590924565838, guid: b7256a85f29d2cf43b2c40606ba40140,
+      type: 3}
+    IsNeedLoad: 0

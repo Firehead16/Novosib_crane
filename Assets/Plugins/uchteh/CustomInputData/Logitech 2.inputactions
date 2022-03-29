@@ -1,0 +1,52 @@
+{
+    "name": "Logitech 2",
+    "maps": [
+        {
+            "name": "FixRight",
+            "id": "b9789ebd-142f-49d6-a733-e4ff02d8feca",
+            "actions": [
+                {
+                    "name": "Right X Axis",
+                    "type": "Value",
+                    "id": "ddf19872-345d-4046-b21d-424dd01666c8",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Right Y Axis",
+                    "type": "Value",
+                    "id": "c52aacbb-7dca-4fe7-a7ef-c2da979f8e9d",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f53877a6-ee22-4949-aab9-3e80ba103f48",
+                    "path": "<HID::Logitech Logitech Extreme 3D>{Right}/stick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right X Axis",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fd6b104a-eb14-47ae-849a-893b2bdde854",
+                    "path": "<HID::Logitech Logitech Extreme 3D>{Right}/stick/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right Y Axis",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

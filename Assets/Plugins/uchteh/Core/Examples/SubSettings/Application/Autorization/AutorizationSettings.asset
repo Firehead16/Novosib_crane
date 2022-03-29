@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b69c7ecdafc233448b573d9df631349, type: 3}
+  m_Name: AutorizationSettings
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  AccessPanel: {fileID: 117789118144147818, guid: a25168167f190fe4d96f7ac1253f5f92,
+    type: 3}
+  RegisterPanel: {fileID: 1992261229345416284, guid: c6809e2afe582a345a4c2e160110873f,
+    type: 3}
+  PasswordPanel: {fileID: 7753229340040851501, guid: ca8b3931b0a52d2499b62a3a2f44e600,
+    type: 3}
+  StudentsPanel: {fileID: 5681765478201478194, guid: 7fad9e237a954ab478c2b8acb14b7e79,
+    type: 3}
+  StudentChangePanel: {fileID: 4034818451275297337, guid: 43d9c602727e6bb49ab9238269cee3f2,
+    type: 3}
+  TeachersPanel: {fileID: 8146660225136593804, guid: f6ee3348cbeb0254d8906bbe5c96f3a1,
+    type: 3}
+  TeacherChangePanel: {fileID: 2118166017907435946, guid: f23736c4459b31f4ead9802dfcb2c2a9,
+    type: 3}
+  AdministratorsPanel: {fileID: 84416721614247653, guid: c90f0222faffc484583540465b284c13,
+    type: 3}
+  AdministratorChangePanel: {fileID: 1905641290246036237, guid: 6fa4334bf58c36e47843ea5f9e7ac64b,
+    type: 3}
+  MinLoginChar: 3
+  MaxLoginChar: 14
+  MinPasswordChar: 4
+  MaxPasswordChar: 20

@@ -1,0 +1,52 @@
+{
+    "name": "Logitech 1",
+    "maps": [
+        {
+            "name": "Fix",
+            "id": "385990ba-1c9c-469d-b10e-7be107aa4d94",
+            "actions": [
+                {
+                    "name": "Left X Axis",
+                    "type": "Value",
+                    "id": "c216905b-ee72-4126-8402-6512772b21a3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Left Y Axis",
+                    "type": "Value",
+                    "id": "6d2c6299-5fca-482c-93ce-bdb6d299c13e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d35708a2-3ee4-44f9-8fd2-c99ae257978e",
+                    "path": "<HID::Logitech Logitech Extreme 3D>{Left}/stick/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left Y Axis",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cdfa1869-721b-4087-a8b0-a5695c8d7d30",
+                    "path": "<HID::Logitech Logitech Extreme 3D>{Left}/stick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left X Axis",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
